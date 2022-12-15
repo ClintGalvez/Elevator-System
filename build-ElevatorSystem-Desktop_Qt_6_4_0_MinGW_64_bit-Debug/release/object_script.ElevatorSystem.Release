@@ -1,0 +1,14 @@
+release/AudioSystem.o
+release/Bell.o
+release/DisplaySystem.o
+release/ECS.o
+release/Elevator.o
+release/Floor.o
+release/Passenger.o
+release/main.o
+release/mainwindow.o
+release/moc_ECS.o
+release/moc_Elevator.o
+release/moc_Floor.o
+release/moc_Passenger.o
+release/moc_mainwindow.o
